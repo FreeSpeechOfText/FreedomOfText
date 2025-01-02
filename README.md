@@ -29,9 +29,4 @@ Would you like to create one now? (yes/no):"
 * If you're receiving an error saying `Cannot find module`, make sure you've installed the modules by running `npm install`.
 
 ## License
-Our World of Text is licensed under the [MIT License](https://github.com/system2k/nodeworldoftext/blob/master/LICENSE).
-
-## Links
-* [Our World of Text](https://ourworldoftext.com)
-* [Our World of Text Wiki](https://wiki.ourworldoftext.com)
-* [Our World of Text Discord](https://discord.gg/aqgH45B6W3)
+Freedom of Text is licensed under the [MIT License](https://github.com/system2k/nodeworldoftext/blob/master/LICENSE).
