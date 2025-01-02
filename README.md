@@ -1,4 +1,4 @@
-# Our World Of Text #
+# Freedom Of Text #
 
 ## Software Requirements
 
@@ -8,7 +8,7 @@
 
 ## Quickstart
 * Clone the OWOT repository
-    * `git clone https://github.com/system2k/nodeworldoftext.git nwot`
+    * `git clone https://github.com/freespeechoftext/freedomoftext.git nwot`
 * Navigate to the directory
     * `cd nwot`
 * Install the dependencies
