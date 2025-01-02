@@ -78,7 +78,7 @@ function maintenanceMode() {
 			const text = `
 				<html>
 					<head><title>Maintenance</title></head>
-					<span>Our World Of Text is currently down for maintenance.</span><br>
+					<span>Freedom Of Text is currently down for maintenance.</span><br>
 					<span>Maintenance began on ${timeStr}</span>
 				</html>`;
 			res.write(text);
