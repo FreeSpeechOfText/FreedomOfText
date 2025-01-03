@@ -29,4 +29,4 @@ Would you like to create one now? (yes/no):"
 * If you're receiving an error saying `Cannot find module`, make sure you've installed the modules by running `npm install`.
 
 ## License
-Freedom of Text is licensed under the [MIT License](https://github.com/system2k/nodeworldoftext/blob/master/LICENSE).
+Freedom of Text is licensed under the [MIT License](https://github.com/FreeSpeechOfText/FreedomOfText/blob/master/LICENSE).
