@@ -1,5 +1,5 @@
 # Freedom Of Text #
-
+Better For Freedom Than OWOT
 ## Software Requirements
 
 * Node.js (>18.x.x) ( https://nodejs.org/ )
